@@ -1,0 +1,11 @@
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\obj\Debug\RepeatSpeaking.csprojAssemblyReference.cache
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\obj\Debug\RepeatSpeaking.csproj.CoreCompileInputs.cache
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\bin\Debug\RepeatSpeaking.exe.config
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\bin\Debug\RepeatSpeaking.exe
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\bin\Debug\RepeatSpeaking.pdb
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\bin\Debug\LowLevelInput.dll
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\bin\Debug\LowLevelInput.xml
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\obj\Debug\RepeatSpeaking.csproj.CopyComplete
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\obj\Debug\RepeatSpeaking.exe
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\obj\Debug\RepeatSpeaking.pdb
+C:\Users\ssitlzy\source\repos\RepeatSpeaking\RepeatSpeaking\bin\Debug\System.Collections.Specialized.dll

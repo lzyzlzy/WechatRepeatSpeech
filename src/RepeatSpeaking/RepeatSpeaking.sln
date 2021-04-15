@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatSpeaking", "RepeatSpeaking\RepeatSpeaking.csproj", "{69A5BAC3-67B9-4A95-9E98-32B97EECB628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A5BAC3-67B9-4A95-9E98-32B97EECB628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A5BAC3-67B9-4A95-9E98-32B97EECB628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A5BAC3-67B9-4A95-9E98-32B97EECB628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A5BAC3-67B9-4A95-9E98-32B97EECB628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA4BDD5-EA90-4CAD-9769-6E4C436033E1}
+	EndGlobalSection
+EndGlobal
